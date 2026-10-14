@@ -16,9 +16,9 @@ public class App {
             System.out.println("2. Liquidar miembro");
             System.out.println("3. Consultar expediente por Alias");
             System.out.println("4. Buscar perfil para misión (Búsqueda avanzada)");
-            System.out.println("5. Exportar Banda (XML/JSON) [Pendiente]");
-            System.out.println("6. Importación Masiva de Datos [Pendiente]");
-            System.out.println("7. Convertir formato de archivo [Pendiente]");
+            System.out.println("5. Exportar Banda (XML/JSON)");
+            System.out.println("6. Importación Masiva de Datos");
+            System.out.println("7. Convertir formato de archivo");
             System.out.println("8. Salir");
             System.out.print("Seleccione una opción: ");
 
@@ -39,13 +39,13 @@ public class App {
                         metodos.buscarPerfilMision();
                         break;
                     case "5":
-                        System.out.println("Opción a implementar.");
+                    	metodos.exportarBanda();
                         break;
                     case "6":
-                        System.out.println("Opción a implementar.");
+                    	metodos.importacionMasiva();
                         break;
                     case "7":
-                        System.out.println("Opción a implementar.");
+                    	metodos.convertirFormato();
                         break;
                     case "8":
                         salir = true;
