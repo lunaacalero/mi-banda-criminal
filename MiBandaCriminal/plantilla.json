@@ -1,0 +1,13 @@
+{
+  "miembros" : [ {
+    "tipo" : "PILOTO",
+    "alias" : "luna",
+    "puntosVida" : 56,
+    "nivelBuscado" : 4,
+    "porcentajeBotin" : 67.0,
+    "vehiculoFavorito" : "coche",
+    "nivelEvasion" : 56,
+    "tieneHelicoptero" : false,
+    "velocidadMaximaKmH" : 678.0
+  } ]
+}

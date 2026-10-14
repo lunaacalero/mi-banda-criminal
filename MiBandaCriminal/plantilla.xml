@@ -1,0 +1,14 @@
+<plantilla>
+  <miembros>
+    <miembro tipo="PILOTO">
+      <alias>luna</alias>
+      <puntosVida>56</puntosVida>
+      <nivelBuscado>4</nivelBuscado>
+      <porcentajeBotin>67.0</porcentajeBotin>
+      <vehiculoFavorito>coche</vehiculoFavorito>
+      <nivelEvasion>56</nivelEvasion>
+      <tieneHelicoptero>false</tieneHelicoptero>
+      <velocidadMaximaKmH>678.0</velocidadMaximaKmH>
+    </miembro>
+  </miembros>
+</plantilla>
